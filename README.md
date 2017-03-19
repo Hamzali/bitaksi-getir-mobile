@@ -1,9 +1,9 @@
 # Birebir Getir Mobile App Challenge
 
 # Used Libs:
-+ React-Native
-+ Axios
-+ Draw SVG
+- React-Native
+- Axios
+- Draw SVG(react-native-svg)
 
 # For Running project:
 
