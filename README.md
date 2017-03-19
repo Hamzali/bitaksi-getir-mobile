@@ -7,22 +7,20 @@
 
 # For Running project:
 
-## Install Node
+### Install Node
 
-## Install react-native and IOS/Android SDK's [Offical tutorial here](https://facebook.github.io/react-native/docs/getting-started.html)
+### Install react-native and IOS/Android SDK's [Offical tutorial here](https://facebook.github.io/react-native/docs/getting-started.html)
 
-
-## Install dependencies:
+### Install dependencies:
 ```
 $ cd to_project_directory
 $ npm install
 ```
-
-## Open your emulator or connect your device and run:
+### Open your emulator or connect your device and run:
 ```
 $ react-native run-android
 ```
-## Or
+### Or
 ```
 $ react-native run-ios
 ```
